@@ -1,0 +1,6 @@
+springcache\redis\BookResource.class
+springcache\redis\Application.class
+springcache\redis\Book.class
+springcache\redis\BookRepository.class
+springcache\redis\SimpleBookRepository.class
+springcache\redis\RedisConfiguration.class
